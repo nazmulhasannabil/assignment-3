@@ -1,6 +1,6 @@
 // API service for job portal
 
-const API_BASE_URL = 'http://assignment-3-server-kappa.vercel.app/api';
+const API_BASE_URL = 'https://assignment-3-server-kappa.vercel.app/api';
 
 interface LoginData {
   email: string;
